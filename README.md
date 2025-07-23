@@ -1,76 +1,84 @@
-# 🧠 Investigating the Mental Well-being of Office Workers  
-*A Case Study at Sathyam Homes Pvt. Ltd.*  
-**By Karishma Ramadass Venkataramanan**  
+# 🌿 Mind Matters: A Study on Mental Well-being in the Workplace  
+**By Karishma Ramadass Venkataramanan**
 
 ---
 
-## 📘 Project Overview
+## 🧩 About the Project
 
-This repository contains the research report and supporting documentation for a study focused on the **mental well-being of corporate office workers**, conducted as part of a Bachelor of Business Administration (BBA) degree at **Madras Christian College (University of Madras)**.
+In a world where productivity often overshadows peace of mind, this study dares to ask:  
+> _“How mentally well are today’s office workers really?”_
 
-The study uses both theoretical insights and real-world data to examine the impact of workplace dynamics—such as job stress, workload, work-life balance, and organizational culture—on employees' psychological health.
-
----
-
-## 🎯 Objectives
-
-- Understand the mental state and well-being of office employees
-- Identify workplace factors contributing to mental health decline
-- Examine links between mental and physical health
-- Propose actionable strategies to improve workplace well-being
+This research dives deep into the emotional, psychological, and organizational factors shaping the day-to-day mental well-being of corporate professionals. From stress to sleep, from recognition to burnout — no stone is left unturned.
 
 ---
 
-## 🛠️ Methodology
+## 🎯 Purpose
 
-- **Type of Research:** Descriptive
-- **Sample Size:** 60 employees from Sathyam Homes Pvt. Ltd.
-- **Data Collection:** Structured questionnaire (primary), literature review (secondary)
-- **Tools Used:** SPSS (IBM v23), correlation, regression, factor analysis, charts
-
----
-
-## 📊 Key Findings
-
-- 90% of employees report their workplace impacts their mental health
-- Long working hours strongly correlate with **anxiety** and **insomnia**
-- Significant associations found between **gender**, **age**, and symptoms like **tiredness**
-- Positive workplace culture, recognition, and transparency boost well-being
+- Explore how workplace environments affect employee mental well-being  
+- Identify stress triggers, burnout factors, and emotional health trends  
+- Examine how variables like **working hours**, **age**, and **job satisfaction** relate to mental health indicators  
+- Suggest actionable strategies for building healthier, happier workplaces  
 
 ---
 
-## 💡 Recommendations
+## 📊 Data & Methodology
 
-- Promote flexible working hours and remote options
-- Provide access to counseling and wellness programs
-- Train leaders and managers on mental health awareness
-- Foster a transparent, inclusive, and supportive work environment
-
----
-
-## 📎 Files Included
-
-- `INVESTIGATING_THE_MENTAL_WELL_BEING_OF_EMPLOYEES.pdf` – Full report
-- `summary.txt` – Executive Summary
-- `figures/` – Visuals and data charts
-- `README.md` – Project documentation (you’re here)
+- **Sample Size:** 60 professionals  
+- **Data Collection:** Structured questionnaires  
+- **Analysis Tool:** IBM **SPSS Statistics v23**  
+- **Techniques Used:**
+  - Descriptive statistics  
+  - Correlation & regression analysis  
+  - Crosstab analysis  
+  - Factor analysis  
+  - Visuals (bar graphs, pie charts, tables)
 
 ---
 
-## 🏛️ Academic Information
+## 💡 Key Insights
 
-- **Institution:** Madras Christian College (Autonomous)  
-- **Affiliated University:** University of Madras  
-- **Year:** 2021–2022  
-- **Guide:** Mr. Karthik R.  
-
----
-
-## 📬 Contact
-
-For academic or collaborative inquiries, feel free to reach out via [LinkedIn](#) or email (contact info not included in public repo for privacy).
+- **90%** of participants confirmed their mental health is impacted by their workplace  
+- Longer working hours showed a **strong correlation** with **anxiety** and **insomnia**  
+- Gender and age influenced experiences of **tiredness** and **depression**  
+- Transparent communication and recognition significantly boosted morale  
+- A weak workplace culture was the lowest-rated factor—pointing to a major area for improvement
 
 ---
 
-> “Mental health needs a great deal of attention. It’s the final taboo and it needs to be faced and dealt with.” – Adam Ant
+## 🌱 Recommendations
 
+- Integrate flexible work policies and wellness breaks  
+- Offer access to mental health resources (like EAPs and mindfulness sessions)  
+- Train leadership to recognize and respond to signs of burnout  
+- Encourage open conversations around emotional well-being  
+- Promote balance—not just performance
+
+---
+
+## 🧠 Why This Matters
+
+Mental well-being isn’t a checkbox—it’s the foundation of a thriving, resilient workforce. This project offers data-driven insight and human-centered solutions for organizations aiming to make empathy a leadership value—not a perk.
+
+---
+
+## 📎 What's Inside
+
+- `Mental_Wellbeing_Study_Report.pdf` – Full research report  
+- `README.md` – You're reading it  
+- `charts/` – Statistical visualizations from SPSS output  
+- `summary_notes.txt` – Quick look at findings & methods
+
+---
+
+## 🎓 Academic Context
+
+This project was submitted in partial fulfillment of the **Bachelor of Business Administration** degree under the **University of Madras**, guided by Mr. Karthik R.
+
+---
+
+> 🧘 “You can't pour from an empty cup. Take care of yourself first.”  
+> — Anonymous
+
+---
+
+📬 *For collaboration or academic queries, feel free to connect!*
